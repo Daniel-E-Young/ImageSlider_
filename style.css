@@ -28,5 +28,5 @@ body{
     transition: .7s;
 }
 .slides.div{
-    
+    display: flex;
 }
