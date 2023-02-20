@@ -22,4 +22,5 @@ image-slider{
     height: 600px;
     position: absolute;
     left: 0;
+    display: flex;
 }
