@@ -40,3 +40,6 @@ body{
     transition: .5s;
     filter: saturate(10%);
 }
+.button{
+    position: absolute;
+}
