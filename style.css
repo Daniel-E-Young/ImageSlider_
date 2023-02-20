@@ -29,4 +29,5 @@ body{
 }
 .slides.div{
     display: flex;
+    align-content: center;
 }
