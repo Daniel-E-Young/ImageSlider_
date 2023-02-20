@@ -38,5 +38,5 @@ body{
     width: 240px;
     height: 370px;
     transition: .5s;
-    
+    filter: saturate(10%);
 }
