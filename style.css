@@ -56,4 +56,5 @@ body{
     width: 300px;
     height: 585px;
     background-color: transparent;
+    filter: saturate(100%);
 }
