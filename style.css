@@ -64,3 +64,9 @@ body{
     background-color: transparent;
     filter: saturate(100%);
 }
+#slider-span1:target ~ .image-slider #img1, #slider-span1:target ~ .image-slider #button-1{
+    width: 300px;
+    height: 585px;
+    background-color: transparent;
+    filter: saturate(100%);
+}
