@@ -64,13 +64,13 @@ body{
     background-color: transparent;
     filter: saturate(100%);
 }
-#slider-span3:target ~ .image-slider #img3, #slider-span3:target ~ .image-slider #button-{
+#slider-span3:target ~ .image-slider #img3, #slider-span3:target ~ .image-slider #button-3{
     width: 300px;
     height: 585px;
     background-color: transparent;
     filter: saturate(100%);
 }
-#slider-span:target ~ .image-slider #img, #slider-span:target ~ .image-slider #button-{
+#slider-span4:target ~ .image-slider #img4, #slider-span3:target ~ .image-slider #button-{
     width: 300px;
     height: 585px;
     background-color: transparent;
