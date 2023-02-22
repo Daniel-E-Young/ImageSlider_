@@ -100,7 +100,7 @@ body{
     background-color: transparent;
     filter: saturate(100%);
 }
-#slider-span9:target ~ .image-slider #img9, #slider-span8:target ~ .image-slider #button-8{
+#slider-span9:target ~ .image-slider #img9, #slider-span9:target ~ .image-slider #button-9{
     width: 300px;
     height: 585px;
     background-color: transparent;
