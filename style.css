@@ -82,7 +82,7 @@ body{
     background-color: transparent;
     filter: saturate(100%);
 }
-#slider-span:target ~ .image-slider #img, #slider-span6:target ~ .image-slider #button-6{
+#slider-span:target ~ .image-slider #img, #slider-span:target ~ .image-slider #button-6{
     width: 300px;
     height: 585px;
     background-color: transparent;
