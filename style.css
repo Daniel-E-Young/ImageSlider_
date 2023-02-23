@@ -113,5 +113,5 @@ body{
     filter: saturate(100%);
 }
 
-#slider-span1:target
+#slider-span1:target ~ .image-slider
 
