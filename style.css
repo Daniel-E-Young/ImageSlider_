@@ -113,7 +113,7 @@ body{
     filter: saturate(100%);
 }
 
-#slider-span1:target ~ .image-slider {left: 70%;}
+#slider-span1:target ~ .image-slider {left: 90%;}
 #slider-span2:target ~ .image-slider {left: 70%;}
 #slider-span3:target ~ .image-slider {left: 70%;}
 #slider-span4:target ~ .image-slider {left: 70%;}
